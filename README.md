@@ -3,4 +3,4 @@ Gathering some ressources to learn about under water acoustic modeling with the 
 
 
 # Sources
-- [https://dosits.org/science/advanced-topics/propagation-modeling/].(Propagation modeling)
+- [Propagation modeling].(https://dosits.org/science/advanced-topics/propagation-modeling/)
